@@ -22,6 +22,10 @@ Research-oriented PyTorch implementation of LLM pretraining, supervised fine-tun
 
 My professional work is primarily biology-facing rather than molecule-generation focused. It includes biomedical language models, scientific evidence synthesis, target discovery support, neoantigen prediction, clinical omics workflows, and medical AI systems.
 
+### [biomedical-evidence-agent](https://github.com/keigotak/biomedical-evidence-agent)
+
+Small research-oriented demo for biology-facing biomedical evidence synthesis using retrieval, structured evidence extraction, evidence cards, and lightweight evaluation.
+
 ### [mol-rl](https://github.com/keigotak/mol-rl)
 
 Independent exploratory project applying reinforcement learning and preference optimization ideas to molecular generation. This is a personal research project, not my primary professional domain.
