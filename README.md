@@ -2,29 +2,28 @@
 
 Applied Scientist / ML Research Engineer working on LLM training, post-training, biomedical AI, and agentic systems.
 
-I have built biomedical language models, scientific AI agents, medical ML systems, and research-oriented LLM training pipelines. My current interests are post-training, evaluation, tool-using agents, and AI systems for scientific discovery.
+I have built biomedical language models, scientific AI agents, medical ML systems, and research-oriented LLM training pipelines.
+
+My current interests are post-training, evaluation, tool-using agents, and AI systems for scientific discovery.
 
 ## Featured Projects
 
-### [LLM Training Pipeline](https://github.com/keigotak/llm-training-pipeline)
+### [llm-training-pipeline](https://github.com/keigotak/llm-training-pipeline)
 
 Research-oriented PyTorch implementation of LLM pretraining, supervised fine-tuning, preference optimization, and RLHF-style post-training.
-
-### Agentic Workflow Projects
-
-- [vibe-music-creation](https://github.com/keigotak/vibe-music-creation)  
-  MCP-based tool-using agent workflow for controlling Ableton Live through Claude Code.
-
-- [casual-game-creation](https://github.com/keigotak/casual-game-creation)  
-  Multi-agent software development workflow using Claude Code skills, subagents, hooks, QA loops, and release automation.
-
-### Biology-facing Biomedical AI Background
-
-My professional work is primarily biology-facing rather than molecule-generation focused. It includes biomedical language models, scientific evidence synthesis, target discovery support, neoantigen prediction, clinical omics workflows, and medical AI systems.
 
 ### [biomedical-evidence-agent](https://github.com/keigotak/biomedical-evidence-agent)
 
 Small research-oriented demo for biology-facing biomedical evidence synthesis using retrieval, structured evidence extraction, evidence cards, and lightweight evaluation.
+
+### Agentic Workflow Projects
+
+- [vibe-music-creation](https://github.com/keigotak/vibe-music-creation): MCP-based tool-using agent workflow for controlling Ableton Live through Claude Code.
+- [casual-game-creation](https://github.com/keigotak/casual-game-creation): Multi-agent software development workflow using Claude Code skills, subagents, hooks, QA loops, and release automation.
+
+### Biology-Facing Biomedical AI Background
+
+My professional work is primarily biology-facing rather than molecule-generation focused. It includes biomedical language models, scientific evidence synthesis, target discovery support, neoantigen prediction, clinical omics workflows, and medical AI systems.
 
 ### [mol-rl](https://github.com/keigotak/mol-rl)
 
